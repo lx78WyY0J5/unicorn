@@ -3,6 +3,8 @@ p {
     color: white;
     font-family: "Segoe UI";
     font-size: x-large;
+
+    padding-left: 40%;
 }
 
 body {
